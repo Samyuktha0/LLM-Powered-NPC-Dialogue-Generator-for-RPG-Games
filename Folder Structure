@@ -1,0 +1,13 @@
+npc-dialogue-generator/
+├── data/
+│   └── fantasy_dialogues.txt
+├── model/
+│   └── fine_tune.py
+├── api/
+│   └── app.py
+├── docker/
+│   └── Dockerfile
+├── utils/
+│   └── cache.py
+├── requirements.txt
+└── README.md
